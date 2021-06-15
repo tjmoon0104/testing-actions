@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --base-href=“https://tjmoon0104.github.io/testing-actions/”",
+    "build": "ng build --base-href /testing-actions/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
